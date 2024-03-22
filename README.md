@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="TheGif" loop>
 </p>
 <h1 align="center">(‾◡◝)</h1>
