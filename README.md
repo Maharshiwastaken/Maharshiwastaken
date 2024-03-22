@@ -1,7 +1,8 @@
-<p align="right">
+
+<h1 align="center">(‾◡◝)</h1>
+<p align="center">
   <img src="https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="TheGif" loop>
 </p>
-<h1 align="center">(‾◡◝)</h1>
 <h3 align="center">Learner.</h3>
 
 <h3 align="center">Connect with me:</h3>
