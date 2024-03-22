@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="TheGif" loop>
+</p>
 <h1 align="center">(‾◡◝)</h1>
 <h3 align="center">Learner.</h3>
 
@@ -8,7 +11,4 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maharshiwastaken&label=Profile%20views&color=0e75b6&style=flat" alt="maharshiwastaken" />
-</p>
-<p align="center">
-  <img src="https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="TheGif" loop>
 </p>
