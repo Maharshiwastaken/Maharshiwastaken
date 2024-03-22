@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://i.gifer.com/3AyY.gif" alt="TheGif" loop>
 </p>
