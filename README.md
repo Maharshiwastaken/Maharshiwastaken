@@ -7,3 +7,4 @@
 <a href="https://linkedin.com/in/maharshi-kattel-2772a5293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maharshi-kattel-2772a5293" height="30" width="40" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maharshiwastaken&label=Profile%20views&color=0e75b6&style=flat" alt="maharshiwastaken" /> </p>
+<img src="[https://example.com/path/to/your/gif.gif](https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="TheGif">
