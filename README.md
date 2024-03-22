@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="TheGif" loop>
+  <img src="https://media3.giphy.com/media/cZfjwoHXqSzZX7j1vU/200w_s.gif?cid=8d8c03588ipxenlwls7o1vw8h2oat306a37gkhp9p4k2qxl7&ep=v1_gifs_search&rid=200w_s.gif&ct=g" alt="TheGif" loop>
 </p>
 <h3 align="center">Learner.</h3>
 
