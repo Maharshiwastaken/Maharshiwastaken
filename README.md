@@ -1,4 +1,4 @@
-<h1 align="center">(‾◡◝) Maharshi</h1>
+<h1 align="center">(‾◡◝) ><br><h1 aligh="center">Maharshi</h1>
 <h3 align="center">Learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharshiwastaken&label=Profile%20views&color=0e75b6&style=flat" alt="maharshiwastaken" /> </p>
