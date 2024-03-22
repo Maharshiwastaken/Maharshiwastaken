@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/3AyY.gif" alt="TheGif" loop>
+  <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952o6f53olaej2zzfp01a1efsm492smafy9u09onh30&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="TheGif" loop>
 </p>
 <h3 align="center">Learner.</h3>
 
