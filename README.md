@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.gifer.com/3AyY.gif](https://i.gifer.com/3AyY.gif)" alt="TheGif" loop>
+  <img src="https://i.gifer.com/3AyY.gif" alt="TheGif" loop>
 </p>
 <h3 align="center">Learner.</h3>
 
