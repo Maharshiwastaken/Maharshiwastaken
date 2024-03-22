@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952o6f53olaej2zzfp01a1efsm492smafy9u09onh30&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="TheGif" loop>
 </p>
-<h3 align="center">Learner.</h3>
+<h3 align="center">Staring wide-eyed at code that runs and doesn't run all the same</h3>
 
 <p align="center">
   <a href="https://twitter.com/maharshikattel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maharshikattel" height="30" width="40" /></a>
