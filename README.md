@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3AyY&psig=AOvVaw3fZGSWNk-aZUxVJ9AOysrk&ust=1711214671290000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqGAoTCLDal86xiIUDFQAAAAAdAAAAABC8AQ" alt="TheGif" loop>
+  <img src="https://i.gifer.com/3AyY.gif" alt="TheGif" loop>
 </p>
 <h3 align="center">Learner.</h3>
 
